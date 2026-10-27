@@ -1,3 +1,3 @@
 # Merge conflict exercise
 
-Evaluation focus: routing accuracy.
+Evaluation focus: routing accuracy and complete task success.
