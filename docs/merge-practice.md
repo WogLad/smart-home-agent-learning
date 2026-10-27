@@ -1,3 +1,3 @@
 # Merge conflict exercise
 
-This is a merge conflict test.
+Evaluation focus: routing accuracy.
