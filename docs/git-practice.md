@@ -27,3 +27,9 @@ Git reported a conflict when I merged the second branch.
 I inspected the conflict markers and combined both intended meanings:
 routing accuracy and complete task success. I staged the resolved file
 and committed the merge.
+
+## Revert exercise
+
+I committed a temporary documentation sentence and then used git revert
+to undo it. Git created a new commit reversing the change while preserving
+the original commit in the history.
