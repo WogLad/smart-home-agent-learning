@@ -1,5 +1,3 @@
-# Dependency ranges used by the notebook installation cell.
-# Exact versions from the executed run are printed in the notebook.
 transformers>=4.45,<5
 outlines>=1,<2
 pydantic>=2,<3
