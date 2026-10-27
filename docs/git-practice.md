@@ -18,3 +18,12 @@ definitions, pushed the branch and opened a pull request.
 
 After inspecting the changes, I merged the pull request and pulled
 the updated main branch into my local repository.
+
+## Merge conflict exercise
+
+I deliberately edited the same sentence differently on two branches.
+Git reported a conflict when I merged the second branch.
+
+I inspected the conflict markers and combined both intended meanings:
+routing accuracy and complete task success. I staged the resolved file
+and committed the merge.
